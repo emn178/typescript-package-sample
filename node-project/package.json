@@ -1,0 +1,14 @@
+{
+  "name": "node-project",
+  "version": "0.1.0",
+  "description": "Node.js project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "typescript-package": "file:../typescript-package"
+  },
+  "author": "Chen, Yi-Cyuan <emn178@gmail.com>",
+  "license": "MIT"
+}

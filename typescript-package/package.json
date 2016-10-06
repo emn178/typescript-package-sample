@@ -1,0 +1,15 @@
+{
+  "name": "typescript-package",
+  "version": "0.1.0",
+  "description": "TypeScript package",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.3"
+  },
+  "author": "Chen, Yi-Cyuan <emn178@gmail.com>",
+  "license": "MIT"
+}
